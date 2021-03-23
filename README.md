@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🎓 Digital Media Graduate 
 - ⌨️ Blogger 
 
-### Where you can find me 🌐
+### You can find me on 💌
 
 * [Twitter](https://twitter.com/CCcodes_x) 🐦
 * [Instagram](https://www.facebook.com/CCMedia.x) 📸
