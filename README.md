@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ### You can find me on 💌
 
 * [Twitter](https://twitter.com/CCcodes_x) 🐦
-* [Instagram](https://www.facebook.com/CCMedia.x) 📸
+* [Instagram](https://www.instagram.com/CCcodes_x/) 📸
 * [Dev.to](https://dev.to/court191) 💻 
 * [GirlCode](https://www.girl-code.co.uk/courtneycox) ✨
 * [CodePen](https://codepen.io/Court191) 🖊️
