@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 💛 Associate Software Developer at Sky
-- 🌸 Code First Girls Alumni
+- 🌸 Code First Girls Fellow
 - 🚀 GirlCode Ambassador 
 - 🎓 Digital Media Graduate 
 - ⌨️ Blogger 
