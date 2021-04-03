@@ -1,4 +1,4 @@
-### Hi, I'm Courtney 👩‍💻💫
+### Hey, I'm Courtney 👩‍💻💫
 
 <!--
 **Court191/Court191** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,3 +29,5 @@ Here are some ideas to get you started:
 * [CodePen](https://codepen.io/Court191) 🖊️
 
 [![CCcodes](https://img.shields.io/badge/CCcodes-Woman%20In%20Tech-pink)](https://twitter.com/CCcodes_x)
+
+![Court's GitHub Stats](https://github-readme-stats.vercel.app/api?username=court191&count_private=true&show_icons=true&theme=dracula)
