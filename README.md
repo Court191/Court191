@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 💛 Associate Software Developer at Sky
-- 🌸 Code First Girls Fellow
+- 🌸 Code First Girls Instructor & Research Fellow
 - 🚀 GirlCode Ambassador 
 - 🎓 Digital Media Graduate 
 - ⌨️ Blogger 
@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 ### You can find me on 💌
 
 * [Twitter](https://twitter.com/CCcodes_x) 🐦
-* [Instagram](https://www.instagram.com/CCcodes_x/) 📸
+* [Instagram](https://www.instagram.com/CCcodes_x) 📸
 * [Dev.to](https://dev.to/court191) 💻 
-* [GirlCode](https://www.girl-code.co.uk/courtneycox) ✨
+* [GirlCode](https://www.girl-code.co.uk/girlcodeambassadors/courtney-cox) ✨
 * [CodePen](https://codepen.io/Court191) 🖊️
 
 [![CCcodes](https://img.shields.io/badge/CCcodes-Woman%20In%20Tech-pink)](https://twitter.com/CCcodes_x)
