@@ -1,26 +1,14 @@
-### Hey, I'm Courtney 👩‍💻💫
+# Hi, I'm Courtney 💫
 
-<!--
-**Court191/Court191** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![CCcodes Cover Image](https://github.com/Court191/Court191/blob/main/gh-readme-header.jpg)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 - 💛 Associate Software Developer at Sky
 - 🌸 Code First Girls Instructor & Research Fellow
 - 🚀 GirlCode Ambassador 
 - 🎓 Digital Media Graduate 
 - ⌨️ Blogger 
 
-### You can find me on 💌
+## You can find me on 💌
 
 * [Twitter](https://twitter.com/CCcodes_x) 🐦
 * [Instagram](https://www.instagram.com/CCcodes_x) 📸
