@@ -16,6 +16,4 @@
 * [GirlCode](https://www.girl-code.co.uk/girlcodeambassadors/courtney-cox) ✨
 * [CodePen](https://codepen.io/Court191) 🖊️
 
-[![CCcodes](https://img.shields.io/badge/CCcodes-Woman%20In%20Tech-pink)](https://twitter.com/CCcodes_x)
-
-![Court's GitHub Stats](https://github-readme-stats.vercel.app/api?username=court191&count_private=true&show_icons=true&theme=dracula)
+![Court's GitHub Stats](https://github-readme-stats.vercel.app/api?username=court191&custom_title=Courtney's_Github_Stats&count_private=true&show_icons=true&bg_color=454545&title_color=ff9f97&text_color=fcf4ec&icon_color=98b6ec)
