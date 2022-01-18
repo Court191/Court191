@@ -3,10 +3,10 @@
 ![CCcodes Cover Image](https://github.com/Court191/Court191/blob/main/gh-readme-header.jpg)
 
 - 💛 Associate Software Developer at Sky
-- 🌸 Code First Girls Instructor & Research Fellow
+- 🌸 Code First Girls Alumna/Fellow 
 - 🚀 GirlCode Ambassador 
-- 🎓 Digital Media Graduate 
-- ⌨️ Blogger 
+- 💜 Sky TechWomen Rep
+- 🎓 Digital Media Graduate
 
 ## You can find me on 💌
 
