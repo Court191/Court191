@@ -2,7 +2,7 @@
 
 ![CCcodes Cover Image](https://github.com/Court191/Court191/blob/main/gh-readme-header.jpg)
 
-- 💛 Associate Software Developer at Sky
+- 💛 Test Engineer at Sky
 - 🌸 Code First Girls Fellow 
 - 🚀 GirlCode Ambassador 
 - 💜 Sky TechWomen Rep
